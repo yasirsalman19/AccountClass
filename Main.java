@@ -17,7 +17,7 @@ public class Main {
 
 
         AccountClass humanX2 = new AccountClass("yxs6542", "YasirSalman",
-                5000.00);
+                6000.00);
 
         System.out.println(humanX2.getBalance());
 
